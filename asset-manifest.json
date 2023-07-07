@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TROURISM/static/css/main.8ece2bc4.css",
+    "main.js": "/TROURISM/static/js/main.cdea7340.js",
+    "index.html": "/TROURISM/index.html",
+    "main.8ece2bc4.css.map": "/TROURISM/static/css/main.8ece2bc4.css.map",
+    "main.cdea7340.js.map": "/TROURISM/static/js/main.cdea7340.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8ece2bc4.css",
+    "static/js/main.cdea7340.js"
+  ]
+}
