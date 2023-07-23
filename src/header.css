@@ -1,0 +1,10 @@
+.wrap{
+    display:flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    padding-bottom: 3rem;
+}
+#btn{
+    margin: 1rem;
+}

@@ -1,9 +1,13 @@
 import Card from './Card'
+import Header from '../Header'
 function Tours({tours, removeTour}){
     return(
         <div className='container'>
             <div className='title'>
                 <h2>Plan With Love</h2>
+            </div>
+            <div>
+                <Header></Header>
             </div>
             <div className='cards'>
                 {
